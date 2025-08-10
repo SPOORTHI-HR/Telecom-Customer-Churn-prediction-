@@ -59,7 +59,7 @@ By exploring the dataset, we can:
 ---
 
 ## ⚙️ Installation & Usage
-1. Clone this repository:
+1. Clone this repository: https://github.com/SPOORTHI-HR/Telecom-Customer-Churn-prediction-
 
 2. Install dependencies:
 pip install -r requirements.txt
